@@ -1,54 +1,54 @@
 [
 {
-	'short_name': 'wonderland', 
-	'name': 'Wonderland Avenue Gifted Magnet', 
-	'lowest_grade': 3,
-	'highest_grade': 5,
-	'gifted': true,
-	'spots': [0,0,0,48,19,1],
-	'applicants': [0,0,0,150,100,60],
-	'stops': ['Alexandria Avenue', 'Cahuenga', 'Cheremoya Avenue', 'Gardner Street', 'Hancock Park', 'Queen Anne Place']
+	"short_name": "wonderland", 
+	"name": "Wonderland Avenue Gifted Magnet", 
+	"lowest_grade": 3,
+	"highest_grade": 5,
+	"gifted": true,
+	"spots": [0,0,0,48,19,1],
+	"applicants": [0,0,0,150,100,60],
+	"stops": ["Alexandria Avenue", "Cahuenga", "Cheremoya Avenue", "Gardner Street", "Hancock Park", "Queen Anne Place"]
 },
 {
-	'short_name': 'community', 
-	'name': 'Community Magnet Charter', 
-	'lowest_grade': 0,
-	'highest_grade': 5,
-	'gifted': false,
-	'spots': [75, 3, 5, 7, 7, 7],
-	'applicants': [800, 499, 600, 600, 600, 600],
-	'stops': ['Beethoven Street', 'Cahuenga', 'Castle Heights', 'Clover Avenue', 'Crescent Heights', 'Gardner Street', 'Grant', 'Stoner Avenue']
+	"short_name": "community", 
+	"name": "Community Magnet Charter", 
+	"lowest_grade": 0,
+	"highest_grade": 5,
+	"gifted": false,
+	"spots": [75, 3, 5, 7, 7, 7],
+	"applicants": [800, 499, 600, 600, 600, 600],
+	"stops": ["Beethoven Street", "Cahuenga", "Castle Heights", "Clover Avenue", "Crescent Heights", "Gardner Street", "Grant", "Stoner Avenue"]
 },
 {
-	'short_name': 'open', 
-	'name': 'Open Charter Magnet', 
-	'lowest_grade': 0,
-	'highest_grade': 5,
-	'gifted': false,
-	'spots': [60, 2, 2, 2, 5, 5],
-	'applicants': [817, 300, 130, 90, 110, 97, 90],
-	'stops': ['Van Ness Avenue', 'Short Avenue', 'Crescent Heights','Alta Loma' ]
+	"short_name": "open", 
+	"name": "Open Charter Magnet", 
+	"lowest_grade": 0,
+	"highest_grade": 5,
+	"gifted": false,
+	"spots": [60, 2, 2, 2, 5, 5],
+	"applicants": [817, 300, 130, 90, 110, 97, 90],
+	"stops": ["Van Ness Avenue", "Short Avenue", "Crescent Heights","Alta Loma" ]
 },
 
 {
-	'short_name': 'braddock', 
-	'name': 'Braddock Drive Gifted Magnet', 
-	'lowest_grade': 2,
-	'highest_grade': 5,
-	'gifted': true,
-	'spots': [0, 0, 30, 4, 2 ,2],
-	'applicants': [0, 0, 28, 10, 5, 6],
-	'stops': ['Cahuenga', 'Palms', 'Walgrove Avenue']
+	"short_name": "braddock", 
+	"name": "Braddock Drive Gifted Magnet", 
+	"lowest_grade": 2,
+	"highest_grade": 5,
+	"gifted": true,
+	"spots": [0, 0, 30, 4, 2 ,2],
+	"applicants": [0, 0, 28, 10, 5, 6],
+	"stops": ["Cahuenga", "Palms", "Walgrove Avenue"]
 },
 {
-	'short_name': 'eagle rock', 
-	'name': 'Eagle Rock Gifted Magnet', 
-	'lowest_grade': 2,
-	'highest_grade': 5,
-	'gifted': true,
-	'spots': [0, 0, 24, 1, 1, 0],
-	'applicants': [0, 0, 88, 10, 10 ,10],
-	'stops': ['Cahuenga', 'Le Conte']
+	"short_name": "eagle rock", 
+	"name": "Eagle Rock Gifted Magnet", 
+	"lowest_grade": 2,
+	"highest_grade": 5,
+	"gifted": true,
+	"spots": [0, 0, 24, 1, 1, 0],
+	"applicants": [0, 0, 88, 10, 10 ,10],
+	"stops": ["Cahuenga", "Le Conte"]
 }
 ]
 
