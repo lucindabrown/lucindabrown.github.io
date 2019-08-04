@@ -1,114 +1,113 @@
  [
 {
-	'stop_name': 'Alexandria Avenue', 
-	'magnets': ['wonderland'], 
-	'neighborhood':'Koreatown'
+	"stop_name": "Alexandria Avenue", 
+	"magnets": ["wonderland"], 
+	"neighborhood":"Koreatown"
 },
 {
-	'stop_name': 'Alta Loma', 
-	'magnets': ['open'], 
-	'neighborhood':'Mid-City'
+	"stop_name": "Alta Loma", 
+	"magnets": ["open"], 
+	"neighborhood":"Mid-City"
 },
 {
-	'stop_name': 'Beethoven Street', 
-	'magnets': ['community'], 
-	'neighborhood':'West of the 405'
+	"stop_name": "Beethoven Street", 
+	"magnets": ["community"], 
+	"neighborhood":"West of the 405"
 },
 {
-	'stop_name': 'Cahuenga', 
-	'magnets': ['wonderland', 'community', 'braddock', 'eagle rock'], 
-	'neighborhood':'Koreatown'
-},
-	
-{
-	'stop_name': 'Castle Heights', 
-	'magnets': ['community', 'open'], 
-	'neighborhood':'Westwood Palms'
+	"stop_name": "Cahuenga", 
+	"magnets": ["wonderland", "community", "braddock", "eagle rock"], 
+	"neighborhood":"Koreatown"
 },
 {
-	'stop_name': 'Cheremoya Avenue', 
-	'magnets': ['wonderland'], 
-	'neighborhood':'Hollywood'
+	"stop_name": "Castle Heights", 
+	"magnets": ["community", "open"], 
+	"neighborhood":"Westwood Palms"
 },
 {
-	'stop_name': 'Clover Avenue', 
-	'magnets': ['community'], 
-	'neighborhood':'Westwood Palms'
+	"stop_name": "Cheremoya Avenue", 
+	"magnets": ["wonderland"], 
+	"neighborhood":"Hollywood"
 },
 {
-	'stop_name': 'Coeur D\'Alene Avenue', 
-	'magnets': ['open'], 
-	'neighborhood':'West of the 405'
+	"stop_name": "Clover Avenue", 
+	"magnets": ["community"], 
+	"neighborhood":"Westwood Palms"
 },
 {
-	'stop_name': 'Crescent Heights', 
-	'magnets': ['community', 'open'], 
-	'neighborhood':'Mid-CIty'
+	"stop_name": "Coeur D'Alene Avenue", 
+	"magnets": ["open"], 
+	"neighborhood":"West of the 405"
 },
 {
-	'stop_name': 'Gardner Street', 
-	'magnets': ['wonderland', 'community'], 
-	'neighborhood':'Hollywood'
+	"stop_name": "Crescent Heights", 
+	"magnets": ["community", "open"], 
+	"neighborhood":"Mid-CIty"
 },
 {
-	'stop_name': 'Grant', 
-	'magnets': ['community'], 
-	'neighborhood':'Hollywood'
+	"stop_name": "Gardner Street", 
+	"magnets": ["wonderland", "community"], 
+	"neighborhood":"Hollywood"
 },
 {
-	'stop_name': 'Hancock Park', 
-	'magnets': ['wonderland', 'community'], 
-	'neighborhood':'Mid-City'
+	"stop_name": "Grant", 
+	"magnets": ["community"], 
+	"neighborhood":"Hollywood"
 },
 {
-	'stop_name': 'Hobart Boulevard', 
-	'magnets': ['community', 'open'], 
-	'neighborhood':'Koreatown'
+	"stop_name": "Hancock Park", 
+	"magnets": ["wonderland", "community"], 
+	"neighborhood":"Mid-City"
 },
 {
-	'stop_name': 'Hoover Street', 
-	'magnets': ['community'], 
-	'neighborhood':'Koreatown'
+	"stop_name": "Hobart Boulevard", 
+	"magnets": ["community", "open"], 
+	"neighborhood":"Koreatown"
 },
 {
-	'stop_name': 'Le Conte', 
-	'magnets': ['eagle rock'], 
-	'neighborhood':'Hollywood'
+	"stop_name": "Hoover Street", 
+	"magnets": ["community"], 
+	"neighborhood":"Koreatown"
 },
 {
-	'stop_name': 'Palms', 
-	'magnets': ['braddock'], 
-	'neighborhood':'Westwood Palms'
+	"stop_name": "Le Conte", 
+	"magnets": ["eagle rock"], 
+	"neighborhood":"Hollywood"
 },
 {
-	'stop_name': 'Queen Anne Place', 
-	'magnets': ['wonderland'], 
-	'neighborhood':'Mid-City'
+	"stop_name": "Palms", 
+	"magnets": ["braddock"], 
+	"neighborhood":"Westwood Palms"
 },
 {
-	'stop_name': 'Short Avenue', 
-	'magnets': ['open'], 
-	'neighborhood':'West of the 405'
+	"stop_name": "Queen Anne Place", 
+	"magnets": ["wonderland"], 
+	"neighborhood":"Mid-City"
 },
 {
-	'stop_name': 'Stoner Avenue', 
-	'magnets': ['community'], 
-	'neighborhood':'West of the 405'
+	"stop_name": "Short Avenue", 
+	"magnets": ["open"], 
+	"neighborhood":"West of the 405"
 },
 {
-	'stop_name': 'Van Ness Avenue', 
-	'magnets': ['open'], 
-	'neighborhood':'Koreatown'
+	"stop_name": "Stoner Avenue", 
+	"magnets": ["community"], 
+	"neighborhood":"West of the 405"
 },
 {
-	'stop_name': 'Walgrove Avenue', 
-	'magnets': ['braddock'], 
-	'neighborhood':'West of the 405'
+	"stop_name": "Van Ness Avenue", 
+	"magnets": ["open"], 
+	"neighborhood":"Koreatown"
 },
 {
-	'stop_name': 'Wilshire Crest', 
-	'magnets': ['community', 'open'], 
-	'neighborhood':'Mid-City'
+	"stop_name": "Walgrove Avenue", 
+	"magnets": ["braddock"], 
+	"neighborhood":"West of the 405"
+},
+{
+	"stop_name": "Wilshire Crest", 
+	"magnets": ["community", "open"], 
+	"neighborhood":"Mid-City"
 }
 ]
 
